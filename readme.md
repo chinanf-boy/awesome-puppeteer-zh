@@ -7,14 +7,22 @@
 
 「 Puppeteer 资源的精选列表。 」
 
-[更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
+[more]: https://github.com/chinanf-boy/chinese-translate-list
 
 ---
 
-### 原文 commit / 日期
+## 校对 ✅
 
-- `commit` https://github.com/transitive-bullshit/awesome-puppeteer/tree/858a95b8d608abf507d5968a75ae86990be45768
-- ⏰ 2018 8.3
+<!-- doc-templite START generated -->
+<!-- time = '2018 8.3' -->
+
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 8.3 | ![last] | [中文翻译][more]
+<!-- doc-templite END generated -->
+
+[commit]:  https://github.com/transitive-bullshit/awesome-puppeteer/tree/858a95b8d608abf507d5968a75ae86990be45768
+[last]: https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg
 
 ### 贡献
 
