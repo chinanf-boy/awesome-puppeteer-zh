@@ -15,15 +15,16 @@
 
 <!-- doc-templite START generated -->
 <!-- time = '2018 8.3' -->
-
+<!-- repo = 'transitive-bullshit/awesome-puppeteer' -->
+<!-- commit = '858a95b8d608abf507d5968a75ae86990be45768' -->
 翻译的原文 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[commit] | ⏰ 2018 8.3 | ![last] | [中文翻译][more]
-<!-- doc-templite END generated -->
+[commit] | ⏰ 2018 8.3 | ![last] | [中文翻译][translate-list]
 
-[commit]:  https://github.com/transitive-bullshit/awesome-puppeteer/tree/858a95b8d608abf507d5968a75ae86990be45768
 [last]: https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg
+[commit]: https://github.com/transitive-bullshit/awesome-puppeteer/tree/858a95b8d608abf507d5968a75ae86990be45768
 
+<!-- doc-templite END generated -->
 ### 贡献
 
 欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
